@@ -1,2 +1,4 @@
 git clone 
 git status
+git remote -v
+git origin
