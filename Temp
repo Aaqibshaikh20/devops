@@ -2,3 +2,4 @@ git clone
 git status
 git remote -v
 git origin
+git pull origin branch name
